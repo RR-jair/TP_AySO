@@ -1,0 +1,89 @@
+sudo dnf update
+sudo dnf install git
+cd repogit
+ git clone git@github.com:RR-jair/TP_AySO.git
+cd TP_AySO/
+pwd
+ls -l
+cat/etc/os-release
+cat etc/os/ release
+cat /usr/lib/os-release
+man grep
+grep HOME_URL/etc/os-release
+man grep
+grep HOME_URL/etc/os-release
+whoami
+echo "Usuario=$(whoami)"> datos_usuario.txy
+whoami
+echo Usuario$(whoami)>datos_usuario.txt
+echo "Usuario=$(whoami)">datos_usuario.txt
+git add.
+git add
+cdrepogit
+cd repogit
+cd TP_AySO/
+cat/etc/os-release
+cat etc/os-release
+Is /I
+ls/ l
+ls -l
+cat /usr/lib/os-release 
+man grep
+grep HOME_URL/usr/lib/os-release
+cd repogit
+cd TP_AySO/
+cat /usr/lib/os-release
+whoami
+echo "Usuario=$(whoami)">datos_usuario.txt
+git add
+git add .
+git add
+git add .
+git config --global user.email "erewet065@gmail.com"
+git config --global user.name "RR-jair"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+git push
+grep
+tail -n1
+cd repogit
+cd TP_AySO/
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep HOME_URL/etc/os-release
+cd repogit
+cd T
+cd TP_AySO/
+ls -l
+cat /etc/os-release
+mangrep
+man grep
+grep -i HOME_URL /etc/os-release
+grep home_url /etc/os-release
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+ls
+git add .
+git config --global user.email "erewet065@gmail.com"
+git config --global user.name "RR-jair"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+git push
+grep "fedora" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+git add datos_usuario.txt
+git commit -m "feat: Add information of cpu"
+git push
+cat <<EOF >> README.md
+Alumno:Bryan Rocha
+Division: 313
+Turno: noche
+EOF
+
+git add README.md datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git add datos_usuario.txt
+git commit -m "ADD: Añadiendo 1er ejercicio sobre datos_usuario.txt"
+git push
+history -a
